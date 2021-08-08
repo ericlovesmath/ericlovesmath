@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ericlovesmath
 - 📫 Contact me at ericlovesmath@gmail.com
+- Life is short. Use Python.
 
 <!---
 ericlovesmath/ericlovesmath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
