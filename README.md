@@ -1,4 +1,4 @@
-# Hi, I’m @ericlovesmath
+# Hi, I’m Eric Lee
 - Student at the California Institute of Technology
 - 📫 Contact me at ericlovesmath@gmail.com
 - Life is short. Use Python.
