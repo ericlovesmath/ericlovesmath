@@ -1,5 +1,7 @@
-# Hi, I’m Eric Lee
+## Welcome to my Github!
+- Eric Lee
 - Student at the California Institute of Technology
+- Personal Website: [ericchanlee.com](ericchanlee.com)
 - 📫 Contact me at ericlovesmath@gmail.com
 - Life is short. Use Python.
 
