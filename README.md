@@ -2,7 +2,7 @@
 - Eric Lee
 - Studying CS @ [California Institute of Technology](https://www.caltech.edu/)
 - Personal Website: [ericchanlee.com](ericchanlee.com)
-- 📫 Contact me at [ericlovesmath@gmail.com](mailto:ericlovesmath@gmail.com)
+- 📫 Contact me at [ericlovesmath@gmail.com](mailto:me@ericchanlee.com)
 - Life is short. Use Python.
 
 <!---
