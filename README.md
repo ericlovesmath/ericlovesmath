@@ -17,4 +17,4 @@ Previously worked on:
 
 📫 Send me cool articles and papers at [me@ericchanlee.com](mailto:me@ericchanlee.com)
 
-![Live photo of me](shark_sm.png)
+<img src="shark_sm.png" width="30%" />
