@@ -15,6 +15,6 @@ Previously worked on:
 - Research on Computational Fluid Dynamics of CD8+ T-Cells @ UCI (2021)
 -->
 
-📫 Send me cool articles and papers at [me@ericchanlee.com](mailto:me@ericchanlee.com)
+📫 Send me cool articles and papers
 
 ![Live photo of me](shark_sm.png)
