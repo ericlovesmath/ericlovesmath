@@ -1,10 +1,10 @@
 ## Welcome to my Github!
 
 I'm Eric Lee, CS + Math at Caltech!
-- Personal Website: [ericchanlee.com](ericchanlee.com)
-- I'm interested in Functional Programming, Compilers, Programming Languages, Formal Verification!
-  - Slowly working my way through [Homotopy Type Theory](https://homotopytypetheory.org/book/)
+- Personal Website: [ericchanlee.com](https://www.ericchanlee.com)
+- I'm interested in Functional Programming, Compilers, Programming Languages, Formal Verification
 - Terminally on Neovim
+- 📫 Send me cool articles and papers
 
 <!--
 Previously worked on:
@@ -15,6 +15,5 @@ Previously worked on:
 - Research on Computational Fluid Dynamics of CD8+ T-Cells @ UCI (2021)
 -->
 
-📫 Send me cool articles and papers
 
 ![Live photo of me](shark_sm.png)
